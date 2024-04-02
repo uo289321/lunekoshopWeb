@@ -8,44 +8,44 @@ class Catalog {
                 img: "./media/img/poliwag.jpg",
                 alt: "Poliwag",
                 title: "Poliwag",
-                price: "3,50 €"
+                price: "4,50 €"
             },
             { 
                 img: "./media/img/totoro_lightblue.jpg",
                 alt: "Totoro",
                 title: "Totoro",
-                price: "3,50 €",
+                price: "4 €",
                 colors: ["lightblue", "gray"]
             },
             { 
                 img: "./media/img/pikachu.jpg",
                 alt: "Pikachu",
                 title: "Pikachu",
-                price: "3,50 €"
+                price: "4,50 €"
             },
             { 
                 img: "./media/img/pokeball.jpg",
                 alt: "Pokeball",
                 title: "Pokeball",
-                price: "3 €"
+                price: "4 €"
             },
             { 
                 img: "./media/img/pato.jpg",
                 alt: "Pato",
                 title: "Pato",
-                price: "3 €"
+                price: "4 €"
             },
             { 
                 img: "./media/img/pulpo.jpg",
                 alt: "Pulpo",
                 title: "Pulpo",
-                price: "3 €"
+                price: "3,50 €"
             },
             { 
                 img: "./media/img/ballena_lightblue.jpg",
                 alt: "Ballena",
                 title: "Ballena",
-                price: "3 €",
+                price: "3,50 €",
                 colors: ["lightblue", "pink", "purple"]
             },
             { 
