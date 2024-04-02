@@ -47,6 +47,13 @@ class Catalog {
                 title: "Ballena",
                 price: "3 €",
                 colors: ["lightblue", "pink", "purple"]
+            },
+            { 
+                img: "./media/img/seta_red.jpg",
+                alt: "Seta",
+                title: "Seta",
+                price: "7 €",
+                colors: ["red", "blue"]
             }
         ]
         const container = document.querySelector(".container");
